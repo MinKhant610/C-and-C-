@@ -40,7 +40,7 @@ int main ()
         printf("Phone Number : ");
         scanf("%d",&sing_phone_number);
 
-        printf("User name : ");
+        printf("User name (not space allow): ");
         scanf("%s",&sing_username);
 
         printf("Password (only inter are allow ) :");
